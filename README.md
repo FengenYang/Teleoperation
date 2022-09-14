@@ -15,3 +15,5 @@ Sometimes your cmd may tell you that it has linked to a device but this device i
 
 ### · Unity
 When using Unity engine to run this project, some plugins are required to implement. The first plugin is URDF importer, you can follow [this](https://github.com/Unity-Technologies/URDF-Importer#integrate-urdf-importer-into-unity-project) to add URDF importer into Unity engine.
+
+Another plugin is Final IK. You need to purchase it in Unity asset store. This plugin is for Dobot inverse kinematic computation. If you have other choice for IK computation, you can change this plugin to your choice.
